@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8627622-cbac-4799-83e3-3ca6dfa76f6d" name="Changes" comment="&#9;&#10;... 🛠️">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d8627622-cbac-4799-83e3-3ca6dfa76f6d" name="Changes" comment="project config.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicioDefixacao001/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicioDefixacao001/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -66,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732580797464</updated>
-      <workItem from="1732580798474" duration="664000" />
+      <workItem from="1732580798474" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 001 - Saída de dados.">
       <option name="closed" value="true" />
@@ -100,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732581423042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project config.">
+      <option name="closed" value="true" />
+      <created>1732581660110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732581660110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="project config.">
+      <option name="closed" value="true" />
+      <created>1732581744007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732581744007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +141,7 @@
     <MESSAGE value="... ️" />
     <MESSAGE value="Exercício de fixação - Aula 001" />
     <MESSAGE value="&#9;&#10;... ️" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#9;&#10;... ️" />
+    <MESSAGE value="project config." />
+    <option name="LAST_COMMIT_MESSAGE" value="project config." />
   </component>
 </project>
