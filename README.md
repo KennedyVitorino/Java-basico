@@ -1,3 +1,3 @@
-# Curso Java básico ☕
+# Curso de Java básico ☕
 
 ... 🛠️
