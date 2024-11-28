@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8627622-cbac-4799-83e3-3ca6dfa76f6d" name="Changes" comment="project config.">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d8627622-cbac-4799-83e3-3ca6dfa76f6d" name="Changes" comment="Aula 002 - Processamento de dados e Casting.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,8 @@
       <workItem from="1732582935868" duration="241000" />
       <workItem from="1732622789565" duration="634000" />
       <workItem from="1732659256648" duration="718000" />
-      <workItem from="1732661473429" duration="1705000" />
+      <workItem from="1732661473429" duration="2015000" />
+      <workItem from="1732753942939" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 001 - Saída de dados.">
       <option name="closed" value="true" />
@@ -147,7 +147,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732583142440</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="project config.">
+      <option name="closed" value="true" />
+      <created>1732663423161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732663423161</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercício de fixação - Aula 001">
+      <option name="closed" value="true" />
+      <created>1732663462448</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732663462448</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Aula 002 - Processamento de dados e Casting.">
+      <option name="closed" value="true" />
+      <created>1732663505647</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732663505647</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,10 +192,11 @@
     <MESSAGE value="Exercício de fixação - Saída de dados." />
     <MESSAGE value="Aula 001 - Saída de dados." />
     <MESSAGE value="... ️" />
-    <MESSAGE value="Exercício de fixação - Aula 001" />
     <MESSAGE value="&#9;&#10;... ️" />
     <MESSAGE value="&#9;&#10;Exercício de fixação - Aula 001" />
     <MESSAGE value="project config." />
-    <option name="LAST_COMMIT_MESSAGE" value="project config." />
+    <MESSAGE value="Exercício de fixação - Aula 001" />
+    <MESSAGE value="Aula 002 - Processamento de dados e Casting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 002 - Processamento de dados e Casting." />
   </component>
 </project>
